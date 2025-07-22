@@ -1,11 +1,15 @@
 ## Hi there, I'm Kubra 👋
+ 💫About Me :
+- 🔭 I’m currently working on Swift.
+🌐Socials
+Instagram LinkedIn
+
 
 <!--
 **kubra-turkoglu/kubra-turkoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## 💫About Me :
-- 🔭 I’m currently working on Swift.
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
