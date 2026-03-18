@@ -1,6 +1,6 @@
 ## Hi there, I'm Kubra 👋
  💫About Me :
-- 🔭 I’m currently working on Swift and SwifUI.
+- 🔭
 - 
 🌐Socials
 Instagram LinkedIn
