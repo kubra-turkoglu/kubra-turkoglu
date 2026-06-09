@@ -76,3 +76,4 @@ A self-motivated Cybersecurity Analyst and Engineer dedicated to threat detectio
 
 * [SOC-Automation-Scripts](https://github.com) - Python scripts for log parsing and AWS Boto3 automation.
 * [Security-Compliance-Checklists](https://github.com) - Documentation and mapping for ISO 27001 & ISO 42001 controls.
+
